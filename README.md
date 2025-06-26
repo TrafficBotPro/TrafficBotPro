@@ -1,6 +1,6 @@
 # TrafficBotPro 🚀
 
-Boost your website’s traffic **and SEO ranking** with TrafficBotPro — the next‑generation web automation platform that simulates *human-like behavior*, enhances *fingerprint security*, and drives *real engagement signals* to search engines.
+Boost your website’s traffic and SEO ranking with [TrafficBotPro](https://trafficbotpro.com/) — the next‑generation web automation platform that simulates human‑like behavior, enhances fingerprint security, and drives real engagement signals to search engines.
 
 ---
 
